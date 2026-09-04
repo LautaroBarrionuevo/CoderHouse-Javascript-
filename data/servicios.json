@@ -1,0 +1,38 @@
+[
+  {
+    "id": "consulta",
+    "number": "01",
+    "icon": "◌",
+    "name": "Consulta podologica",
+    "description": "Evaluacion integral, diagnostico y recomendaciones para cuidar tus pies.",
+    "duration": 45,
+    "price": 12000
+  },
+  {
+    "id": "pedicuria",
+    "number": "02",
+    "icon": "⌁",
+    "name": "Pedicuria clinica",
+    "description": "Higiene y cuidado profesional para mantener tus pies saludables.",
+    "duration": 60,
+    "price": 16000
+  },
+  {
+    "id": "unas",
+    "number": "03",
+    "icon": "⌇",
+    "name": "Unas encarnadas",
+    "description": "Tratamiento especifico para aliviar molestias y prevenir complicaciones.",
+    "duration": 50,
+    "price": 14500
+  },
+  {
+    "id": "diabetico",
+    "number": "04",
+    "icon": "✧",
+    "name": "Pie diabetico",
+    "description": "Control preventivo y asesoramiento personalizado para tu bienestar.",
+    "duration": 45,
+    "price": 13500
+  }
+]
